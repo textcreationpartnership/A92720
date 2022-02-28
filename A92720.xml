@@ -1,0 +1,603 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scotlands alarme. Or, Some considerations tending to demonstrate the necessitie of our speedie marching to the assistance of our brethren in England, notwithstanding all difficulties and necessities, reall or pretended. Together, with a letter dated at Edinburgh, Novemb. the 29. 1643. Wherein is given full satisfaction to all men who desire to know the reasons why the Scots Army is not yet advanced into England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92720</idno>
+            <idno type="STC">Wing S2015</idno>
+            <idno type="STC">Thomason E77_5</idno>
+            <idno type="STC">ESTC R21030</idno>
+            <idno type="EEBO-CITATION">99869109</idno>
+            <idno type="PROQUEST">99869109</idno>
+            <idno type="VID">121471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92720)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121471)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E77[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotlands alarme. Or, Some considerations tending to demonstrate the necessitie of our speedie marching to the assistance of our brethren in England, notwithstanding all difficulties and necessities, reall or pretended. Together, with a letter dated at Edinburgh, Novemb. the 29. 1643. Wherein is given full satisfaction to all men who desire to know the reasons why the Scots Army is not yet advanced into England.</title>
+               </titleStmt>
+               <extent>[2], 10, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, first at Edinburgh, and Re-printed at London for Robert Bostock,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Domini. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121471:1" rendition="simple:additions"/>
+            <p>SCOTLANDS ALARME <hi>OR,</hi> Some conſiderations tending to
+demon<g ref="char:EOLhyphen"/>ſtrate the neceſsitie of our ſpeedie marching to the aſsiſtance
+of our Brethren in <hi>England,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding all difficulties and
+neceſſities, reall or pretended.</p>
+            <q>
+               <bibl>
+                  <hi>ESTHER 4. verſe 13, 14, 16. Verſe 13.</hi>
+               </bibl>
+               <p>Think not with thy ſelf that thou ſhalt eſcape in the Kings
+houſe more then all the Iews. <hi>15.</hi> For if thou altogether holdeſt
+thy peace at this time, thou ſhall there inlargement and deliverance ariſe
+to the Iews from another place, but thou and thy fathers houſe ſhall be
+deſtroyed, and who knoweth whether thou art come to the Kingdom for ſuch a
+time as this.</p>
+               <bibl>
+                  <hi>Verſe 16.</hi>
+               </bibl>
+               <p>If I periſh, I periſh.</p>
+               <bibl>
+                  <hi>Chap. 8. verſ. 6.</hi>
+               </bibl>
+               <p>For how can I endure to ſee the evill that ſhall come unto
+(Gods) people? or how can I endure to ſee the deſtruction of my kinred?</p>
+            </q>
+            <p>TOGETHER, With a Letter dated at <hi>Edinburgh,</hi> Novemb. the
+29. 1643.</p>
+            <p>Wherin is given full ſatisfaction to all men who deſire to
+know the reaſons why the <hi>Scots</hi> Army is not yet advanced into
+<hi>England.</hi>
+            </p>
+            <p>Printed, firſt at <hi>Edinburgh,</hi> and Re-printed at
+<hi>London</hi> for <hi>Robert Boſtock. Anno Domini.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="considerations">
+            <pb facs="tcp:121471:2"/>
+            <pb n="1" facs="tcp:121471:2"/>
+            <head>SCOTLANDS ALARME: <hi>OR,</hi> Some conſiderations tending to
+demon<g ref="char:EOLhyphen"/>ſtrate the neceſsitie of our ſpeedie marching to <hi>the
+aſsistance of our Brethren in</hi> England, <hi>notwith<g ref="char:EOLhyphen"/>ſtanding all
+difficulties and neceſsities, reall or pretended.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as all works of honour and impor<g ref="char:EOLhyphen"/>tance are uſually
+attended with manifold diffi<g ref="char:EOLhyphen"/>culties, which the ſpirits of men, unleſſe
+quick<g ref="char:EOLhyphen"/>ned, many times ſuffer to grow up into diſcou<g ref="char:EOLhyphen"/>ragements: And whereas
+more eſpecially thoſe under-takings in which the honour of GOD, and the
+aduancement of the Kingdom of JESUS CHRIST is con<g ref="char:EOLhyphen"/>cerned, beſides thoſe
+naturall impediments that ariſe from the weight of the Service, are commonly
+obſtructed with many arti<g ref="char:EOLhyphen"/>ficiall lets, which the ſubtilty and malice of
+the Devill, and ill-af<g ref="char:EOLhyphen"/>fected Inſtruments readily make, and many times the
+corruptions of the well-affected, too eaſily entertain.</p>
+            <p>It ſeems not unneceſſarie to offer to this Nation, now by
+ſo<g ref="char:EOLhyphen"/>lemne and ſacred Covenant engaged with the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi>
+for the mutuall preſervation of Religion and Liberty, ſome conſiderations
+proving and preſsing the neceſsitie of the ſpeedie marching of our
+intended Army, to the relief of our Brethren, notwithſtanding the expectation
+of money not fully anſwered, and the diſcouragements of this Winter
+ſeaſon.</p>
+            <p>That we of this Nation are to affoord aſsiſtance to
+<hi>England</hi> in thi Cauſe, wherein they are engaged againſt the
+Popiſh and Prelaticall Faction, that ſo the intended corruption and
+ſubver<g ref="char:EOLhyphen"/>ſion of the Proteſtant Religion may be prevented, and the juſt
+<pb n="2" facs="tcp:121471:3"/>Liberties of both Nations ſecured, it is hoped may be taken
+for granted, it being the plain language of our Covenant.</p>
+            <p>Some it may be there are (and God be thanked there are no more)
+who either really think, or carry themſelves as if they thought it utterly
+unlawfull to engage in this Cauſe, becauſe we are ſo unhappie as to ſee
+his Majeſty intangled in the counſels and practiſes of them whom we are
+reſolved to oppoſe, and think that free-born Proteſtant Subjects, in any
+caſe of difference betwixt them and their Prince, have nothing left but the
+miſerable refuge of paſſive obedience, which they will, have accounted
+due to his perſonall commands, as well as legall. But God forbid we ſhould
+ſo part with our Religion and Libertie, the Inheritance of our Fa<g ref="char:EOLhyphen"/>thers. A
+great deal of honour and obſervance is due to Princes, but let us finde out
+ſome cheaper ſacrifice for theſe Deities, than the honour and truth of
+him who is exalted farre above all gods, and the welfare and happineſſe of
+whole Kingdoms, with which, whatſoever mortall man is weighed in the
+ballance, will be found too light. But in the mean time theſe States and
+Kingdoms are ve<g ref="char:EOLhyphen"/>rie much beholding to the patrons of this Doctrine, who thereby
+make the condition of the Subjects of great Brittain no whit bet<g ref="char:EOLhyphen"/>ter than that
+of the vaſſals to the great Turk, who can deſire or ex<g ref="char:EOLhyphen"/>pect no more than
+a paſſive obedience to his will and pleaſure.</p>
+            <p>Others there be, who pretend think to that Religion &amp; Liber<g ref="char:EOLhyphen"/>ty
+may be ſecured by thoſe wayes and counſels which have ob<g ref="char:EOLhyphen"/>tained his
+Majeſties Countenance and Concurrence. But whe<g ref="char:EOLhyphen"/>ther a deſigne whoſe
+ingredients are Spaniſh Counſels, Romiſh Buls, Popiſh Contributions,
+and an Iriſh Ceſſation, be like to tend to the good of the true Religion,
+let any man judge who hath not renounced his underſtanding.</p>
+            <p>But this preſent undertaking is not intended to convince them
+who oppoſe or decline this Service, if there are any who either upon theſe
+grounds or worſe are diſpoſed to an oppoſition, or neutrality in this
+great Cauſe, And after ſo much blood ſhed, ſo many Petitions and
+Declarations made, ſuch a Covenant as ours duely weighed doubt of the
+lawfullneſſe and neceſsity of joyning with our Brethren in this mutuall
+defence. Such are to be left to the juſt cenſures of the <hi>Church,</hi>
+and deſerved penalties of the <hi>State,</hi> which certainly are the moſt
+fit, and will be the moſt effe<g ref="char:EOLhyphen"/>ctuall meanes for their Conviction.</p>
+            <p>That which is now endeavored, is to quicken the hearts, and
+<pb n="3" facs="tcp:121471:3"/>ſtrengthen the hands of them who have Sworn and
+Subſcribed this Solemne Covenant, that they may with the more ſpeed and
+cheerfulneſſe ſet their ſhoulders to the work in hand. For ſo it is
+many times,
+<note place="margin">Probitas laudatur &amp; alget.</note> that a
+good Cauſe is at the ſame time praiſed and ſtarved, And thoſe that
+ſeem very much affected with the gene<g ref="char:EOLhyphen"/>rall repreſentation of a
+buſineſſe when it deſcends to action, and eſpecially their own
+particular engagement, have a ſtrange damp ſeazing upon them, and can
+hardly perſwade themſelves to act according to what they have
+apprehended.</p>
+            <p>If therefore there be any who either doubt of the abſolute or
+preſent neceſſity of contributing their utmoſt aſſiſtance to this
+Cauſe of CHRIST ſo infinitely valuable, let the love they owe to GOD, and
+his Goſpel which is endangered, to their Brethren who are ſo miſerably
+ſpoiled both in <hi>England</hi> and <hi>Ireland,</hi> to themſelves and
+their own Native Country, which is now within the noiſe of the Thunder (for
+the ſharp Letters and terrible Pro<g ref="char:EOLhyphen"/>clamations from <hi>Oxford</hi> have
+already reached us) and will ſhort<g ref="char:EOLhyphen"/>ly (unleſſe GOD give us grace to
+prevent it by timely endea<g ref="char:EOLhyphen"/>vours) be under the ſtorm: Let theſe threefold
+bands of love not eaſily broken by any Chriſtian Spirit, prevail with them
+to lay to heart theſe enſuing conſiderations.</p>
+            <p>Firſt, let it be duely conſidered what may be the ill
+conſe<g ref="char:EOLhyphen"/>quents of diſapointing the expectation of the wel-affected party in
+<hi>England,</hi> who having done their utmoſt to anſwer our deſires,
+have ſet their hearts and hopes upon our aſſiſtance as the moſt
+probable means (under GOD) for the repreſſing the fury of the adverſary,
+and reſcuing them from thoſe calamities that preſſe them even at their
+doors.
+<note place="margin">
+                  <hi>Iob.</hi> 6.</note>To him that is afflicted,
+pity ſhould be ſhewed from his friend; but we ſhall inſtead of that,
+adde affli<g ref="char:EOLhyphen"/>ction to their affliction, if by deferring their hope, we make their
+hearts to faint, and give too much advantage to their and our adverſaries to
+inſult over them, and ſpeake proudly in the day of their
+diſtreſſe.</p>
+            <p>And ſecondly, if after all theſe Overtures and Endea<g ref="char:EOLhyphen"/>vours,
+our promiſed and expected helpe ſhould be deferred, the Malignants would be
+very diligent to improve this diſappointment to an alienation of their
+affection from us, and the interruption of that Union, ſo happily made and
+confirmed betwixt us by the late Covenant, and our FRIENDS would bee ready to
+looke upon us as <pb n="4" facs="tcp:121471:4"/>a people rather addicted to our own
+advantages then affected with their dangers, or the dangers of Religion it
+ſelfe: which we have publickly acknowledged to bee much hazarded by the
+at<g ref="char:EOLhyphen"/>tempts of Papiſts and Malignants there.</p>
+            <p>But it will be ſaid that other mens expectations are not to bee
+the grounds or rules of our proceedings; It is anſwered nationall
+expectations are not to be ſlighted, but ſometimes may have the ſtrength
+of ſome arguments, eſpecially when ſo raiſed as theirs have been, which
+may be conceived to be by theſe two grounds: Firſt, a repreſentation made
+to our friends in <hi>England</hi> by their Commiſſioners, of their hearty
+entertainment here, and that juſt ſenſe and fellow-feeling of their
+calamities, which was expreſ<g ref="char:EOLhyphen"/>ſed by the Generall Aſſembly and
+Convention of Eſtates, to which affections they will looke for actions
+ſutable. Secondly, we underſtand by divers Letters that our
+Commiſſioners there, ſeeing their neceſſities, and yet their
+willingneſſe to doe to their power, and many of them beyond their power,
+the better to comply with the Articles of the Treaty, have given very much
+encouragement to them to expect our ſpeedy march, eſpecially upon the
+ſending away a conſiderable part of the money requi<g ref="char:EOLhyphen"/>red. And we are bound
+as much as in us lyeth, to make good the hopes they have given both for their
+credit &amp; the honor of the Nation. For though our difficulties be many, yet
+it is im<g ref="char:EOLhyphen"/>poſſible that they ſhould become ſo manifeſt and convincing
+to them, as to acquit us from a preſent undertaking of this ſervice.</p>
+            <p>And laſtly, by our preſent march wee ſhall not onely
+ſatisfie the expectation of our friends, but beſides the reall ſervice
+wee ſhall doe in our own perſons in thoſe parts where wee come, Wee
+ſhall give reputation to their Forces elſwhere, diſappoint and
+di<g ref="char:EOLhyphen"/>ſtract the enemy, who have flattered themſelves with the
+impoſ<g ref="char:EOLhyphen"/>ſibility of our preſent aſſiſtance, and ordered their affairs
+accord<g ref="char:EOLhyphen"/>dingly: And not only help to ſave the lives and eſtates, but the
+ſouls of many, who through a ſlaviſh feare are conſtrained to lie in a
+deteſtable neutrality, and ready to ſay a confederacy to the Papiſts, and
+ſo to ſtretch out their hands to a ſtrange god.</p>
+            <p>As therefore all warlike undertakings, in regard of the mani<g ref="char:EOLhyphen"/>fold
+advantages of diſpatch, are called Expeditions; ſo let us take care, that
+through our backwardneſſe, this of ours loſe not that name.</p>
+            <p>But the difficulties are ſo many: in regard of our
+neceſſities not <pb n="5" facs="tcp:121471:4"/>ſupplyed with the full ſum expected,
+and the manifold inconve<g ref="char:EOLhyphen"/>niences of a Winter march, that it ſeems
+unreaſonable for any to expect we ſhould undertake that which we can
+ſcarce hope to go through. For ſatisfaction to this great objection, let us
+conſider ſomething of the nature of difficulties in generall, and ſome
+things concerning our particular preſent difficulties.</p>
+            <p>Firſt, it is hoped no man will take offence at him that prayeth
+GOD to remove the difficulties in our own hearts, which through ſloath and
+ſelf-love, are ſometimes ready to ſay, There is a roar<g ref="char:EOLhyphen"/>ing Lyon in the
+way, when it is onely a barking Dog: it may be, if this prayer were heard, the
+greateſt difficulties were removed, though it cannot be denied, there are
+many other.</p>
+            <p>Secondly, Difficultie is the conſtant companion of great and
+honourable undertakings;
+<note place="margin">
+                  <hi>Mat.</hi> 26.39.</note>the greater our
+difficulties are, the greater honour ſhall we gain to our ſelves, the
+greater love ſhall we ſhew to the Cauſe and Servants of CHRIST, who when
+he came to deliver us, never diſputed the bitterneſſe of the Cup, but was
+ſatisfied that it was his Fathers will he ſhould drink it:
+<note place="margin">2 <hi>Sam.</hi> 24.24.</note>A man would not
+beſtow a cheap courteſie on his friend, much leſſe would he ſerve GOD
+with that which coſts him nought; In a word, ſo ardent are thoſe
+affections that become this Cauſe, that they ought not nor will not fear the
+encounter of the coldeſt win<g ref="char:EOLhyphen"/>ter blaſts that can be met with.</p>
+            <p>Thirdly, All difficulties that fall ſhort of impoſſibility,
+though they diſ-hearten flat and dull ſpirits, yet they do but quicken
+thoſe that are noble and active, and makes them double their di<g ref="char:EOLhyphen"/>ligent
+endeavours. Nothing but an abſolute impoſſibilitie muſt ſtop us in
+our intended Courſe, for we have obliged our ſelves by Covenant,
+<note place="margin">
+                  <hi>Eccl.</hi> 5.4.</note> 
+               <hi>Zealouſly &amp;
+conſtantly to continue in the purſuance of this Cauſe againſt all
+oppoſition, and promote the ſame according to our power, againſt all Lets
+and Impediments whatſoever.</hi> Let this be throughly weighed. Vow and
+pay.</p>
+            <p>Fourthly, The manifold experience we have had of difficulties may
+juſtly make us rather love them then fear them, let us reflect upon the
+unexpected relief GOD hath given us in our ſtreights, for want of Money,
+victuals, and Ammunition in our former ex<g ref="char:EOLhyphen"/>peditions, and be diſcouraged if
+wee can, it is true the thought of them ſhould not make us neglect the meanes
+and tempt GOD, but they may and muſt, when wee have uſed the means, make us
+truſt him. The great things GOD that done <pb n="6" facs="tcp:121471:5"/>for us, have
+ſurely their uſe, and there is none better then in the ſtrength of them,
+and to ſet upon new, as <hi>David</hi> remembring the Lion and the Bear
+adventured on the <hi>Philiſtin.</hi> The place wither we are to go, may
+juſtly be called by us <hi>Iehovah Iireh,</hi> as it was then ſaid, <hi>in
+the Mount of the Lord, it ſhall be ſeen;</hi> ſo may it by us in regard
+of the extremities wee have paſſed, <hi>the more difficul<g ref="char:EOLhyphen"/>tie, the leſs
+danger.</hi>
+            </p>
+            <p>And as it is very well worth our labour, to re-collect and
+con<g ref="char:EOLhyphen"/>ſider the ſeverall paſſages of ſpeciall providence, which have
+be<g ref="char:EOLhyphen"/>fallen us and others on this Cauſe of Preſervation, and Reforma<g ref="char:EOLhyphen"/>tion of
+Religion, So may it not be amiſſe in the mean time to take notice of this
+generall obſervation, That GOD delights to be very much ſeen in the
+carrying it on, he honours men ſo much as to employ them, and lets them
+ſhew their duty to him, and love to his Cauſe, but the Worke that is done
+he doth it himſelfe, and in the midſt of all the meanes that are uſed, he
+ſeemes reſolved to bring his people out of Babylon, as once out of Egypt,
+by tentati<g ref="char:EOLhyphen"/>ons, and ſignes and mighty wonders<g ref="char:punc">▪</g> How ſtrangely hath he
+reje<g ref="char:EOLhyphen"/>cted all humane confidences? Armies have been raiſed with great
+Preparations &amp;
+<note place="margin">
+                  <hi>Zech.</hi> 4.6, 7.</note>Expectations, how
+ſmall parts of them hath God made uſe of &amp; indeed no part til he hath
+firſt reduced them to great ſtraits &amp; extremities, and emptyed them of
+their own confidence. It is a worke paralled to that mentioned by the Prophet,
+which the Lord declared to be accompliſhed, not by power nor by might, but by
+his Spirit. Though this Work of Babylons ruine ſhall not be done without
+power or might, for double muſt be rendred to her, and happie ſhall they be
+that reward her as ſhee hath ſerved us, giving her blood to drinke, for
+ſhee is worthy; yet not by that power or might in an ordinary way, but by the
+Spirit of GOD the diſpoſer of all affairs (eſpecially thoſe that
+concerne the Church of GOD) ſtrangely ordering things, that ſo little of
+men or meanes, but much of GOD may be ſeen, ſo that when he hath made the
+Mountains become plains, before his <hi>Zerobabels,</hi> the head-ſtone may
+be brought fotth with ſhouting, crying not Ar<g ref="char:EOLhyphen"/>mies, Councels, Commanders, but
+<hi>Grace grace unto it.</hi>
+            </p>
+            <p>But this is a ſtrange Dialect to States men, &amp; Souldiers, It
+may be ſo, but GOD will probably make it familiar in time.</p>
+            <p>Let this diſcourſe be taken as it was intended, not to take
+men off the uſing preparations, but from truſting them, and ſtanding ſo
+preciſely upon all accompliſhments, when GOD hath given ſo
+<pb n="7" facs="tcp:121471:5"/>good encouragement to hope that he will make up our unwilling
+and unavoidable neceſsities. But in the midſt of our buſineſſe, let
+it be ſeriouſly laid to heart how much blood is ſpilt, how many Townes
+and Countries ſpoiled, how miſerably our friends are diſtreſſed and
+diſtracted, while we are preparing onely for their reliefe. We have
+profeſſed to looke upon their condition as our own, and well we may, for it
+is <hi>truly,</hi> though not preſently and <hi>immediately</hi> our own; let
+us ſo carry our ſelves, as if they ene<g ref="char:EOLhyphen"/>mies Forces were as neer
+<hi>Edenburgh</hi> as they are <hi>London.</hi> But this muſt not be
+interpreted quarreling, but quickning.</p>
+            <p>And now let us deſcend from this general conſideration of
+dif<g ref="char:EOLhyphen"/>ficulties, and take a particular view of the preſent difficulties that
+interrupt and retard our ſo much expected and deſired aid.</p>
+            <p>And firſt, whereas it may bee there are ſome that quake and
+ſhiver at the thought of a Winters march, and looke upon it as an
+unreaſonable motion, that our Army ſhould then take the field, when other
+Armies betake themſelves to Gariſon.</p>
+            <p>Let none take exception, if we pray GOD to keepe Winter out of our
+hearts, and we ſhall make a reaſonable good ſhift for our bodies, the
+worſt weather in the world, is that which our Saviour tells of; When
+<hi>iniquity abounds, and the love of many waxes cold.</hi> Chriſt never
+complained it was too hot, when he ſweat drops of blood, GOD hath given us
+bodies able to endure much, let not our mindes refuſe it; neceſsity makes
+all ſeaſons alike, and that is our caſe, or I am ſure the caſe of our
+friends, which we ſhould make ours, or GOD will make it ours. But if the
+conſideration of the condition of our friends, who endure a hard winter for
+want of coals from New-caſtle do not move us, let us looke at the carriage of
+our enemies, ſure we ſhall be aſhamed to decline that for the Service of
+Chriſt, which they ſo readily endure for Anti<g ref="char:EOLhyphen"/>chriſt. Did not the Kings
+Armie march from <hi>Oxford</hi> to <hi>Brainford</hi> in November, the M. of
+New-caſtle, with his Popiſh Army from <hi>Northumberland</hi> to
+<hi>York</hi> in Decem. Did not the Cavaliers take in <hi>Ciceſter</hi> in
+<hi>Gloceſterſhire</hi> in the depth of Winter, Feb. 2. 1642.</p>
+            <q>
+               <lg>
+                  <l>Vt iugulent homines ſurgunt de nocte latrones,</l>
+                  <l>Vt teipſum ſerves non expergiſceris?</l>
+               </lg>
+               <lg>
+                  <l>Shall villains to deſtroy get up by night,</l>
+                  <l>And we not ſtir to ſave till day be light?</l>
+               </lg>
+            </q>
+            <p>For ſhame let not this be thought an impediment, much leſſe
+made an excuſe by any, GOD will either ſend ſuch weather as
+<pb n="8" facs="tcp:121471:6"/>we may endure, or make us able to endure ſuch as he
+ſends. If we complain the winter is too cold, it is much to bee doubted, we
+may have reaſon hereafter to complain that the Spring is too hot, when our
+work ſhal be made ten times more difficult by the increaſe of the enemies
+ſtrength from <hi>Ireland</hi> and other places, and the proviſion of Armes
+and Ammunition (now ſo much wanting among them) which theſe dark winter
+nights, not<g ref="char:EOLhyphen"/>withſtanding the guards at Sea, will befriend them with; Let us
+not favour our enemies while we think to favour our ſelves, and ſuffer them
+to make uſe of thoſe proviſions for horſe and man, which are now in the
+Countrey; though Winter be more cold, the Summer is like to be more hungry.
+Delayes eſpecially in Military affairs, are ſeldome or never without many
+dangers: Ours will have ſin and danger too, if they be not timely looked
+unto.</p>
+            <p>But the laſt and greateſt difficultie is, the matter of money;
+how can it be thought that we ſhould ſatisfie the expectation of our
+friends and neighbours, when they fall ſo much ſhort of ſa<g ref="char:EOLhyphen"/>tisfying ours,
+in that which is the ſinew and ſtrength of warre.</p>
+            <p>This is a ſtrong objection, but neceſſity is a ſtronger
+anſwer; we muſt be ſure at ſome time or other (for we are made Traitors
+and Rebels by Proclamation already, and promiſed protection but upon a
+ſlender condition, that is, ſo long as wee behave our ſelves ſo, as
+evill Councellours may give a good report of our deſervings) we ſhall be
+compelled to raiſe an Armie in de<g ref="char:EOLhyphen"/>fence of this Cauſe and our ſelves, and
+though the termes are not ſo good as ſome expected, they are better then
+wee are like to finde, if our brethren in <hi>England</hi> bee utterly
+ſpoiled, and wee left to ſhift for our ſelves. Let us therefore
+perſwade our ſelves to doe that now, which otherwiſe we ſhal be in time
+conſtrained to, that is, part with what we have, for the vindication of our
+Religion and Liberty.</p>
+            <p>As it was juſt and reaſonable, that for the better
+accompliſh<g ref="char:EOLhyphen"/>ment of the intended worke, we ſhould make as good proviſion
+as might be, and to that end deſire a conſiderable ſumme of mo<g ref="char:EOLhyphen"/>ney, the
+better to prevent future inconveniencies. So it is no leſſe juſt and
+reaſonable, that our friends, having (as we are credibly informed) done their
+utmoſt, for this preſent, toward the ſatiſ<g ref="char:EOLhyphen"/>faction of our
+propoſitions in that point, we ſhould bee willing and ready to doe our
+utmoſt to ſupply their unwilling wants, <pb n="9" facs="tcp:121471:6"/>the cauſe being
+as certainly, though not ſo immediately ours, as theirs.</p>
+            <p>It may be more money might have been had, if Malignants, Neuters,
+and lukewarme-profeſſors could have found in their hearts to have parted
+with it; but as ſome have done below, ſo doubtleſſe ſome have done
+beyond their ability. Shall honeſt men be deſtroyed, becauſe worldlings
+will not part with their Mammon: For that is the caſe, if we helpe not the
+good Pro<g ref="char:EOLhyphen"/>teſtants of <hi>England,</hi> becauſe money is ſhort, they
+muſt be loſt and undone, becauſe after this vaſt expence upon the
+Cauſe of GOD they are no richer?</p>
+            <p>And if this be an impediment, certainly it will be an
+everla<g ref="char:EOLhyphen"/>ſting impediment; the longer we ſtay, the leſſe aſſiſtance
+muſt bee expected from our friends, which bee daily more and more
+ex<g ref="char:EOLhyphen"/>hauſted, and that middle ſort of men, which have the riches of the
+Kingdome, will rather with their money buy an unlawfull peace, than maintain a
+lawfull warre.</p>
+            <p>Conſidering therefore, that GOD hath ſo in his providence
+ordered things, that our Brethren of <hi>England</hi> and wee, ſhould be
+happily united in a Solemne Covenant (a thing wee would, not long ſince, have
+purchaſed at a dear rate) and hath diſpoſed the hearts of the Parliament,
+readily to condiſcends to the Arti<g ref="char:EOLhyphen"/>cles of the Treaty, without any materiall
+alteration: Seeing that notwithſtanding the ſpoile of the Kings Armies,
+having a great part of the Kingdom under contribution, and almoſt
+de<g ref="char:EOLhyphen"/>ſtroying the trade of <hi>London:</hi> and notwithſtanding the charge of
+their own Armies, which hath been exceeding great both in <hi>England</hi> and
+<hi>Ireland,</hi> and yet is like to be, they have uſed ſo much care, and
+ſo faithfull endeavours for the fulfilling our de<g ref="char:EOLhyphen"/>mands; Let us every man
+look upon his Covenant, wherein he hath engaged to his power, and then look to
+his purſe; his barns, his ſhop and ſtore-houſes, and whatſoever he
+can call his, And laſt of all, look back into his own heart and conſcience,
+and make an impartiall judgement of his ability, and do according<g ref="char:EOLhyphen"/>ly, left our
+<hi>hands</hi> in contribution, not being anſwerable to our <hi>Vow</hi> in
+the Covenant, we be accounted deceivers, and meet with a curſe in ſtead of
+a bleſſing. What GOD hath denied us in mo<g ref="char:EOLhyphen"/>ney, he hath grant ed us in
+victuall, whereof he hath vouchſafed us plenty, let us not ſuffer his
+Cauſe to ſtarve in the midſt of it. Let us conſider that there is now
+no place for concealments, wee <pb n="10" facs="tcp:121471:7"/>have not to do with men, but
+with GOD, with whom we have covenanted, he ſearcheth our hearts, ſees our
+actions and abili<g ref="char:EOLhyphen"/>ties. He takes notice what prophane <hi>Eſaus</hi> there
+are among us, that preferre pottage to their birth-right; What churliſh
+<hi>Nabals,</hi> who ſay of the ſervants and Cauſe of GOD,
+<note place="margin">1 <hi>Sam.</hi> 25.5.</note> as he once of
+<hi>Da<g ref="char:EOLhyphen"/>vids, Shall I take my bread, and my fleſh, and give it to men whom I
+know not whence they be?</hi> and he takes ſo ſtrict notice, as to render
+to them according to their wayes, and according to the fruit of their doings,
+as you may ſee in that reckoning Chriſt makes at the 25 of <hi>Matth.</hi>
+v. 41. I <hi>was hungry and ye fed me not, naked and ye clothed me not, Depart
+ye curſed, &amp;c.</hi>
+            </p>
+            <p>But I wil not ſo much diſtruſt your faithfulneſſe and
+forward<g ref="char:EOLhyphen"/>neſſe in this great Cauſe of Jeſus Chriſt, which pleads ſo
+ſtrong<g ref="char:EOLhyphen"/>ly for it ſelf in every Chriſtian heart. If this labour be
+ſuperflu<g ref="char:EOLhyphen"/>ous, I am glad you wanted it not, if it be neceſſary, I am glad
+I ſpared it not.</p>
+            <p>I ſhut up all with the words of <hi>Ioab</hi> to
+<hi>Abiſhai,</hi>
+               <note place="margin">2 <hi>Sam.</hi> 10.12.</note>
+               <hi>Be of good
+cou<g ref="char:EOLhyphen"/>rage, and let us play the men for the people and cities of our God, and let
+the Lord do what ſeemeth to him good,</hi> Only adding that lively
+encouragement of <hi>David</hi> to <hi>Solomon,</hi>
+               <note place="margin">1 <hi>Chron.</hi> 12.6.</note>
+               <hi>Ariſe
+therefore, and be do<g ref="char:EOLhyphen"/>ing, and the Lord be with you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:121471:7" rendition="simple:additions"/>
+            <head>A LETTER From <hi>EDINB<g ref="char:V">Ʋ</g>RGH, NOVEMBER,</hi> 30. 1643.</head>
+            <head type="sub">Giving full ſatisfaction to all men why the
+<hi>SCOTISH</hi> Army is not yet Ad<g ref="char:EOLhyphen"/>vanced into <hi>ENGLAND.</hi>
+            </head>
+            <opener>
+               <salute>My true and constant Friend,</salute>
+            </opener>
+            <p>GIve me leave to uſe this compella<g ref="char:EOLhyphen"/>tion of you who lives in the
+midſt of ſo many changes and changlings. Suffer me alſo to entreat you to
+afford me a little of your patience (if it be not all ſpent) till you have
+peruſed and pon<g ref="char:EOLhyphen"/>dered theſe few lines, expreſſing the conditi<g ref="char:EOLhyphen"/>on of our
+affaires here, and then pronounce your ſentence.</p>
+            <p>Maſter <hi>Hatcher</hi> and his Company with the Treatie, and
+the Money, came to <hi>Leith</hi> road <hi>November</hi> 21. ſo long a time
+it pleaſed God to keep him on Sea, and thereby to ex<g ref="char:EOLhyphen"/>croiſe our
+patience.</p>
+            <pb facs="tcp:121471:8"/>
+            <p>The publicke Orders to the Shyres con<g ref="char:EOLhyphen"/>cerning the generall
+Randevous (which is ap<g ref="char:EOLhyphen"/>pointed to be upon the 29. of <hi>December</hi> at
+<hi>Hatrlaw,</hi> a place foure miles from <hi>Berwicke</hi>) were exped upon
+the fourth day after the arrivall of the Ship, which was <hi>Novemb.</hi>
+25.</p>
+            <p>The neereſt Regements are appointed to march preſently towards
+the borders, there to quarter and exerciſe themſelves, and to meet with the
+Cavaleeres, if any of them ſhall appeare till the day of Randevous.</p>
+            <p>Conſider with your ſelfe, what time you will allow for
+ſending the Orders to the Shires, to call the Committees of the ſeverall
+Shires, to bring together the Souldiers to their Colours, and to march as farre
+as <hi>Bar<g ref="char:EOLhyphen"/>wicke,</hi> from which ſome of the Regiments are no leſſe then
+a hundred miles diſtant; af<g ref="char:EOLhyphen"/>ter you have impartially conſidered theſe and
+other ſuch neceſſary duties and diſtracti<g ref="char:EOLhyphen"/>ons, you will not condemne us
+of delayes or ſlackneſſe.</p>
+            <p>
+               <hi>Ireland</hi> hath alſo bred us at this time, much trouble
+and hinderance, for upon the very day of Maſter <hi>Hatcher</hi> his arivall,
+Commiſſi<g ref="char:EOLhyphen"/>oners came from <hi>Ireland,</hi> expreſſing the
+un<g ref="char:EOLhyphen"/>ſupporable <pb facs="tcp:121471:8"/>ſufferings of our <hi>Iriſh</hi> Army: One of
+them ſwore to my ſelfe, that being preſent at a Parade, he did ſee a
+whole Re<g ref="char:EOLhyphen"/>giment, whereof ſcarcely one hundred had either ſtockings or
+ſhooes, but all bare-leg<g ref="char:EOLhyphen"/>ged and bare-footed in this ſeaſon of the yeere;
+and yet poore ſoules, they are ready to take the Covenant, and to ſpend
+their lives againſt the Ceſſation, if they had ne<g ref="char:EOLhyphen"/>ceſſaries for their
+lives furniſhed unto them.</p>
+            <p>Our Councels were toſſed betwixt two extremities, upon the one
+hand to bring them away, was to give up that Kingdome into the hands of
+Papiſts and Rebels; to ſuffer the poore Proteſtants there either to be
+driven forth, and to come upon us for re<g ref="char:EOLhyphen"/>liefe, or their throats to be cut by
+their bar<g ref="char:EOLhyphen"/>barity, which hath deſtroyed ſo many alrea<g ref="char:EOLhyphen"/>dy; and to make the
+Rebels ſtrong and uni<g ref="char:EOLhyphen"/>ted for invading theſe two Kingdomes. Up<g ref="char:EOLhyphen"/>on the other
+hand, to keepe them there, and to feed them with promiſes, and really to
+ſtarve them, as we have done for a long time were to fall in the like
+barbarity.</p>
+            <p>In this perplexity, we have beene forced to diſpatch from
+<hi>Air</hi> 4000 bolls of meall, <pb facs="tcp:121471:9"/>which we had provided for the
+Weſtern Re<g ref="char:EOLhyphen"/>giments, and are providing other neceſſaries to be ſent unto
+the<g ref="char:cmbAbbrStroke">̄</g> with diligence. This hath bin an unexpected &amp; untimeous, but a
+neceſ<g ref="char:EOLhyphen"/>ſary diverſion of our councels from the great buſineſſe. And
+hath taken up a great part of our time, which the <hi>Engliſh</hi>
+Comiſſioners here doe know; and the wiſe there cannot but
+ac<g ref="char:EOLhyphen"/>knowledge.</p>
+            <p>The act of publike faith is alſo concluded, and ſent up that
+there be nothing wanting on our part: No ſooner did the Committee of the
+convention of Eſtates reſolve upon the day of generall aſſembly in
+their meet<g ref="char:EOLhyphen"/>ing at <hi>Edenbrugh,</hi> have appointed a publike faſt and
+humiliation for a bleſſing from Hea<g ref="char:EOLhyphen"/>ven upon our expedition, which is to be
+ſo<g ref="char:EOLhyphen"/>lemly kept in the Army, &amp; in all the Kirks of the Kingdome
+<hi>Jan.</hi> 7. being the Lords day, and the wedneſday following according
+to the warning ſent to all the Presbitaries and the particular cauſes
+expreſſed therein, which I have herewith ſent unto you.</p>
+            <p>Thus have we reſolved with our prayers and endeavours to joyne
+in the cauſe of God and to wait for his bleſſing for ſucceſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
